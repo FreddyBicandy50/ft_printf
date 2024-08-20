@@ -5,8 +5,10 @@
 </p>
 
 ## Status
-Started:24/06/2024.
+Started: 24/06/2024.
+
 Finished: 10/07/2024.
+
 Grade: 100%.
 
 ## Usage
