@@ -1,7 +1,7 @@
 # ft_printf 
 
 <p align="center">
-  <img src="https://github.com/FreddyBicandy50/42draft/blob/main/42_badges/ft_printfe.png" alt="ft_printf project badge"/>
+  <img src="https://github.com/FreddyBicandy50/ft_printfe/blob/main/ft_printfe.png" alt="ft_printf project badge"/>
 </p>
 
 ## Status
